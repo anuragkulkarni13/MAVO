@@ -1,0 +1,14 @@
+common\dto\VersionDTO.class
+versionmanagement\VersionFetcher.class
+pom\PomOperations.class
+vulnerability\VulnerabilityAnalyzer.class
+common\dto\DependencyDTO.class
+com\mavo\pomAnalyzerMojo.class
+common\Constants.class
+common\Utils.class
+db\DependencyDB.class
+common\dto\VulnerabilityDTO.class
+db\DependencyCache.class
+algorithm\POMAnalyzerAlgorithm.class
+pom\DependencyOperations.class
+visualization\graphVisual.class

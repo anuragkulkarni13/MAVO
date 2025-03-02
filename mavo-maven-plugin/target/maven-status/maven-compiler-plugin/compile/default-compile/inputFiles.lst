@@ -1,0 +1,14 @@
+D:\Anurag\MAVO phase 2\MAVO Workspace 2\mavo-maven-plugin\src\main\java\algorithm\POMAnalyzerAlgorithm.java
+D:\Anurag\MAVO phase 2\MAVO Workspace 2\mavo-maven-plugin\src\main\java\com\mavo\pomAnalyzerMojo.java
+D:\Anurag\MAVO phase 2\MAVO Workspace 2\mavo-maven-plugin\src\main\java\common\Constants.java
+D:\Anurag\MAVO phase 2\MAVO Workspace 2\mavo-maven-plugin\src\main\java\common\dto\DependencyDTO.java
+D:\Anurag\MAVO phase 2\MAVO Workspace 2\mavo-maven-plugin\src\main\java\common\dto\VersionDTO.java
+D:\Anurag\MAVO phase 2\MAVO Workspace 2\mavo-maven-plugin\src\main\java\common\dto\VulnerabilityDTO.java
+D:\Anurag\MAVO phase 2\MAVO Workspace 2\mavo-maven-plugin\src\main\java\common\Utils.java
+D:\Anurag\MAVO phase 2\MAVO Workspace 2\mavo-maven-plugin\src\main\java\db\DependencyCache.java
+D:\Anurag\MAVO phase 2\MAVO Workspace 2\mavo-maven-plugin\src\main\java\db\DependencyDB.java
+D:\Anurag\MAVO phase 2\MAVO Workspace 2\mavo-maven-plugin\src\main\java\pom\DependencyOperations.java
+D:\Anurag\MAVO phase 2\MAVO Workspace 2\mavo-maven-plugin\src\main\java\pom\PomOperations.java
+D:\Anurag\MAVO phase 2\MAVO Workspace 2\mavo-maven-plugin\src\main\java\versionmanagement\VersionFetcher.java
+D:\Anurag\MAVO phase 2\MAVO Workspace 2\mavo-maven-plugin\src\main\java\visualization\graphVisual.java
+D:\Anurag\MAVO phase 2\MAVO Workspace 2\mavo-maven-plugin\src\main\java\vulnerability\VulnerabilityAnalyzer.java
