@@ -10,10 +10,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.Queue;
 
+import common.Constants;
 import common.dto.DependencyDTO;
 import common.dto.VulnerabilityDTO;
 import pom.DependencyOperations;
-import vulnerability.VulnerabilityAnalyzer;
 
 public class graphVisual {
 
@@ -145,7 +145,7 @@ public class graphVisual {
     private static void runGraphviz(String dotFileName, String outputFileName, String newPomPath) {
         try {
         	// Construct the command
-            String[] command = {"C:\\Program Files\\Graphviz\\bin\\dot", "-Tpng", dotFileName, "-o", outputFileName};
+            String[] command = {Constants.dotPath, "-Tpng", dotFileName, "-o", outputFileName};
 
 //            System.out.println(command.toString());
             // Execute the command

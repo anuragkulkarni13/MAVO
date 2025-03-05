@@ -656,7 +656,7 @@ public class POMAnalyzerAlgorithm {
 	            }
 	            
 	            document.add(new Paragraph().setPaddingTop(20));
-	            document.add(new Paragraph().add("Recommendations - "));
+	            document.add(new Paragraph().add("Recommendations - ").setFont(boldFont));
 	            document.add(table);
 	            
 	            document.add(new Paragraph().setPaddingTop(20));

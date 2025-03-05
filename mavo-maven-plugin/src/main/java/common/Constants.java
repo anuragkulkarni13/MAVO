@@ -56,6 +56,8 @@ public class Constants {
 // needs to be externalized
 	
 	public static String mvnPath = "C:\\Program Files\\apache-maven-3.9.8\\bin";
+	
+	public static String dotPath = "C:\\Program Files\\Graphviz\\bin\\dot";
 
 	public static String mavenDependencyPluginVersion = "3.8.1";
 	
